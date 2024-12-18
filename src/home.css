@@ -1,0 +1,38 @@
+
+
+#mainhead
+{
+    margin: 30px 0px 0px 70px;
+    font-style: italic;
+    color: black;
+    display:flex;;
+    justify-content: center;
+    align-items: center;
+}
+
+#newlaunch
+{
+    padding: 20px 0px 0px 0px;
+    margin: 0px 70px 0px 70px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    color: rgb(253, 234, 238);
+}
+
+#topmenu
+{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+#shoppage
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#imagesss {
+    height:250px;
+    width: 25px;
+}

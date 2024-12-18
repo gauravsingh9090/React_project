@@ -1,0 +1,253 @@
+
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Squooshy Slides for Women",
+            "category":"Womens Cycle",
+            "brand":"Hercules",
+            "price":22045,
+            "time":"New",
+            "discount":30,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_1945%20%20%28Fugitive%29.png?itok=ikdH15Y5"
+        },
+        {
+            "id":2,
+            "name":"Roadeo Fugitive 29T Smart Red",
+            "category":"Mens Cycle",
+            "brand":"Hercules",
+            "price":22045,
+            "time":"New",
+            "discount":0,
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_1988%20%28Fugitive%20Red%29.png?itok=icXl0U27"
+        },
+        {
+            "id":3,
+            "name":"Montra Blues Large Military Green",
+            "category":"Mens Cycle",
+            "brand":"Montra",
+            "price":55360,
+            "discount":40,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/blues.png?itok=zs5IyA55"
+        },
+        {
+            "id":4,
+            "name":"Montra Blues Medium Military Black",
+            "category":"men",
+            "brand":"Montra",
+            "price":55360,
+            "time":"New",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/blues1.png?itok=-ipWEKD-"
+        },
+        {
+            "id":5,
+            "name":"Montra Blues Medium White and Grey with Grey and Neon Orange",
+            "category":"mens",
+            "brand":"montra",
+            "price":55360,
+            "discount":80,
+            "offer":"yes",
+            "image" :"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/montra-blues.png?itok=9T4YnNHu:"
+        },
+        {
+            "id":6,
+            "name":"Montra Timba 700C Medium Champagne Gold",
+            "category":"Mens",
+            "brand":"Montra",
+            "price":15935,
+            "time":"New",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/timba5.png?itok=ip3-4I7c"
+        },
+        {
+            "id":7,
+            "name":"Montra Timba 700C Medium Ferrari Red",
+            "category":"Men",
+            "brand":"Montra",
+            "price":15935,
+            "discount":20,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/montra-timba-red.png?itok=A1vG2AlB"
+        },
+        {
+            "id":8,
+            "name":"Montra Trance Pro Medium Neon Green",
+            "category":"women",
+            "brand":"Montra",
+            "price":32085,
+            "time":"New",
+            "discount":60,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/trance-pro2.png?itok=ZIxaB92b"
+        },
+        {
+            "id":9,
+            "name":"Montra Trance Pro Medium Neon Red",
+            "category":"women",
+            "brand":"Montra",
+            "price":32085,
+            "discount":0,
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/trance-pro1.png?itok=j_Gadgpw"
+        },
+        {
+            "id":10,
+            "name":"BSA Bestie 20T Ballet Pink",
+            "category":"kids",
+            "brand":"BSA",
+            "price":6649,
+            "time":"New",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/02%20%283%29%20%281%29.png?itok=J8-LCLpq"
+        },
+        {
+            "id":11,
+            "name":"Montra Madrock 29T Green",
+            "category":"Mens",
+            "brand":"Montra",
+            "price":25188,
+            "discount":0,
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/green_2.png?itok=NM5DuSMl"
+        },
+        {
+            "id":12,
+            "name":"Montra Madrock 29T Black",
+            "category":"Mens",
+            "brand":"Montra",
+            "price":25188,
+            "time":"New",
+             "discount":80,
+             "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/black_4.png?itok=zQxy6aSY"
+        },
+        {
+            "id":13,
+            "name":"BSA Bestie 16T Ballet Pink",
+            "category":"kids",
+            "brand":"BSA",
+            "price":6199,
+            "time":"New",
+            "discount":30,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/02%20%283%29%20%281%29.png?itok=J8-LCLpq"
+        },
+        {
+            "id":14,
+            "name":"Hercules Top Gear Redeem 27.5T Black / Neon Orange",
+            "category":"Mens",
+            "brand":"Hercules",
+            "price":12825,
+            "time":"New",
+            "discount":0,
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_5391%20%28Hercules%20Redeem%29.png?itok=c-2zbQuS"
+        },
+        {
+            "id":15,
+            "name":"BSA Go 20T Mettalic Red",
+            "category":"kids",
+            "brand":"BSA",
+            "price":6885,
+            "discount":40,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/Go-20.png?itok=y_zOYlks"
+        },
+        {
+            "id":16,
+            "name":"BSA Go 16T Forest Green",
+            "category":"kids",
+            "brand":"BSA",
+            "price":6495,
+            "time":"New",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/Go-16.png?itok=Xj1esjdf"
+        },
+        {
+            "id":17,
+            "name":"BSA Toonz 20T Smart Red/Black",
+            "category":"kids",
+            "brand":"BSA",
+            "price":7415,
+            "discount":80,
+            "offer":"yes",
+            "image":"https://trackandtrail.in/sites/default/files/styles/listing_image/public/1FK546G0B93000C.png?itok=zU9hG2tS"
+        },
+        {
+            "id":18,
+            "name":"BSA Toonz 20T Victor Blue/Smart Red",
+            "category":"kids",
+            "brand":"BSA",
+            "price":7415,
+            "time":"New",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/1FK546G0890000C.png?itok=L9fOZ8hO"
+        },
+        {
+            "id":19,
+            "name":"BSA Toonz 16T Ruby Pink/Active Blue",
+            "category":"kids",
+            "brand":"BSA",
+            "price":6980,
+            "discount":20,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/1FK547L0915A01C.png?itok=PDMswe3m"
+        },
+        {
+            "id":20,
+            "name":"Hercules Top Gear Redeem 27.5T Black / Neon Orange",
+            "category":"Mens Cycle",
+            "brand":"Hercules",
+            "price":12825,
+            "time":"New",
+            "discount":60,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_5391%20%28Hercules%20Redeem%29.png?itok=c-2zbQuS"
+        },
+        {
+            "id":21,
+            "name":"BSA Urban Ranger 27.5T Nemo Orange with Ghost Grey",
+            "category":"kids",
+            "brand":"BSA",
+            "price":34999,
+            "discount":0,
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_2384%20%28BSA%20Urban%20ranger%20Grey%20with%20Orange%29%20%281%29.png?itok=QfX3OxcU"
+        },
+        {
+            "id":22,
+            "name":"BSA Urban Ranger 27.5T Ferrari Red",
+            "category":"men",
+            "brand":"BSA",
+            "price":34999,
+            "time":"New",
+            "discount":50,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_2356%20%28BSA%20Urban%20Ranger%20Red%29.png?itok=3r2XF7yl"
+        },
+        {
+            "id":23,
+            "name":"Montra Techno 27.5T Octavia blue with Fossil Green",
+            "category":"men",
+            "discount":0,
+            "brand":"Montra",
+            "price":34999,
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/TEchno%20Blue%203.png?itok=SOCoLfSk"
+        },
+        {
+            "id":24,
+            "name":"Montra Techno 27.5T Black Matt with Ghost Grey",
+            "category":"men",
+            "brand":"Montra",
+            "price":34999,
+            "time":"New",
+            "discount":80,
+            "offer":"yes",
+            "image":"https://www.trackandtrail.in/sites/default/files/styles/listing_image/public/IMG_0147%20%28Techno%20Black%29.png?itok=zMb2wm7Z"
+        }
+    ]
+}
